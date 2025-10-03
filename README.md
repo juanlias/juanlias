@@ -1,4 +1,5 @@
-# 👋 Hola, soy Juan Lias <span style="font-size: 10px; color: #c2c2c2ff;">README v1</span>
+# 👋 Hola, soy Juan Lias
+<span style="font-size: 10px; color: #c2c2c2ff;">README v1</span>
 
 ## Creando experiencias digitales con alma
 
@@ -22,7 +23,7 @@ Para mí, cada detalle importa, porque lo funcional solo se vuelve extraordinari
 
 ---
 
-#### Glosario
+### Glosario
 
 <details id="glosario">
   <summary><strong>Juguito: </strong> La chispa extra que transforma lo ordinario en <strong>extraordinario</strong>.</summary>
