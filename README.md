@@ -1,38 +1,42 @@
-<!-- Hero -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Avatar de Juan Lias">
-  <h1 style="margin: 10px 0 4px;">Hola, soy Juan Lias</h1>
-  <p style="margin:0; font-size: 14px;">
-    Diseñador de productos digitales · Front-end Developer · Creador de experiencias
-  </p>
+# 👋 Hola, soy Juan Lias <span style="font-size: 10px; color: #c2c2c2ff;">README v1</span>
 
-  <!-- Badges principales -->
-  <p style="margin-top: 8px;">
-    <img alt="Stars" src="https://img.shields.io/github/stars/juanlias?style=social">
-    <img alt="Followers" src="https://img.shields.io/github/followers/juanlias?style=social">
-    <img alt="Visits" src="https://komarev.com/ghpvc/?username=juanlias&label=Visitas&color=0e75b6&style=flat">
-  </p>
-</div>
+## Creando experiencias digitales con alma
+
+Soy un humilde **Diseñador de Producto y Desarrollador Frontend** con más de **8 años** de experiencia, trabajando en la frontera donde la creatividad se convierte en tecnología. Del wireframe al prototipo, del código al producto final. 
+
+Para mí, cada detalle importa, porque lo funcional solo se vuelve extraordinario cuando está impregnado de **intención**, **propósito** y **[juguito](#glosario)** ✨  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Lias-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanlias)
+[![Web](https://img.shields.io/badge/Web-juanlias.com-111827?style=flat&logo=firefoxbrowser&logoColor=white)](https://juanlias.com)
+[![Email](https://img.shields.io/badge/Email-contact%40juanlias.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@juanlias.com)
+
+<p style="margin-top: 8px;">
+  <img alt="Stars" src="https://img.shields.io/github/stars/juanlias?style=social">
+  <img alt="Followers" src="https://img.shields.io/github/followers/juanlias?style=social">
+  <img alt="Visits" src="https://komarev.com/ghpvc/?username=juanlias&label=Visitas&color=0e75b6&style=flat">
+</p>
+
+<br>
+<br>
+<br>
 
 ---
 
-<!-- About -->
-<div align="center">
-  <p style="max-width: 760px; font-size: 15px; line-height: 1.6;">
-    Construyo interfaces modernas con propósito: del wireframe al “wow”.
-    Trabajo con <strong>Vue 3, Quasar, Tailwind, GSAP</strong> y procesos bien cuidados
-    (i18n dinámico, commits claros, QA y automatización). Me mueven la ciencia, la creatividad y
-    el diseño útil que mejora el día a día.
-  </p>
-</div>
+#### Glosario
 
-<!-- Quick facts -->
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Rol</strong></td>
-      <td>Digital Product Designer · Front-end Dev</td>
-    </tr>
-    <tr>
-      <td><strong>Stack actual</strong></td>
-      <td>Vue 3 · Vite · Quasar · Tailw
+<details id="glosario">
+  <summary><strong>Juguito: </strong> La chispa extra que transforma lo ordinario en <strong>extraordinario</strong>.</summary>
+
+**Qué es:** esfuerzo, detalle y cariño puestos en cada decisión/acción.  
+Nació en 2017 como broma y hoy es mi filosofía: cuando sientes que le falta ese "algo", es porque le falta **juguito**.
+
+**Cómo lo aplico:**
+- Decisiones de diseño que priorizan la experiencia.  
+- Microinteracciones que aportan vida.  
+- Textos que comunican intención.  
+- Soluciones que conectan más allá del requerimiento.
+
+**Qué NO es:** perfeccionismo tóxico, “diseño bonito” sin propósito, ni exagerar por impresionar.
+
+<sub><em>Que nunca le falte el <strong>EXTRA</strong> a lo ordinario</em></sub>
+</details>
