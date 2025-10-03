@@ -1,5 +1,4 @@
 # 👋 Hola, soy Juan Lias
-<span style="font-size: 10px; color: #c2c2c2ff;">README v1</span>
 
 ## Creando experiencias digitales con alma
 
